@@ -1,0 +1,13 @@
+title: "Nick Shrake github site"
+description: "Tutorials, experiments, and embedded systems writeups"
+theme: minima
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+
+collections:
+  projects:
+    output: true
