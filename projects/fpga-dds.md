@@ -1,6 +1,7 @@
 ---
-layout: default
 title: FPGA DDS Walkthrough
+parent: Projects
+nav_order: 1
 ---
 
 # FPGA DDS Walkthrough

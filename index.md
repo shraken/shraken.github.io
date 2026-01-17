@@ -1,14 +1,12 @@
 ---
-layout: default
 title: Home
+nav_order: 1
 ---
 
-## Welcome
+# Welcome
 
 This site contains tutorials and notes from my projects with a focus on embedded software and firmware.
 
+Use the navigation on the left to browse projects.
+
 ---
-
-## Project Tutorials
-
-- [FPGA DDS Walkthrough](/projects/fpga-dds)

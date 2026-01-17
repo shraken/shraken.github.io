@@ -1,13 +1,15 @@
-title: "Nick Shrake github site"
+title: "Nick Shrake's github page"
 description: "Tutorials, experiments, and embedded systems writeups"
-theme: minima
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
 
-plugins:
-  - jekyll-feed
+theme: just-the-docs
+color_scheme: light
+
+search_enabled: true
+heading_anchors: true
+
+nav_sort: case_insensitive
 
 collections:
   projects:
     output: true
+    permalink: /:collection/:path/
