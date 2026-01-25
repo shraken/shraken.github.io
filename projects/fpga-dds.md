@@ -12,7 +12,7 @@ A low cost AMD/Xilinx Zynq 7 (Zybo legacy) board is used for prototyping.  A Dig
 
 A Saleae logic analyzer is used for probing digital signals on a PMOD header from the Zynq 7 board.
 
-The sources for this project can be found in the [fpga-tutorials repo]().
+The sources for this project can be found in the [fpga-tutorials repo](https://github.com/shraken/fpga-tutorials).
 
 ## Requirements
 
